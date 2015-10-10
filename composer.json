@@ -1,0 +1,16 @@
+{
+    "name": "ihsan/deneme",
+    "description": "Ilk deneme",
+    "authors": [
+        {
+            "name": "Ihsan ONAL",
+            "email": "xsanonal@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "HelloWorld": "src/"
+        }
+    }
+}
